@@ -271,4 +271,5 @@ https://github.com/dokku/dokku-letsencrypt
         dokku ps:restart scdlbot
 
 .. |Deploy| image:: https://www.herokucdn.com/deploy/button.svg
-    :target: https://heroku.com/deploy
+    :target: https://heroku.com/deploy?template=https://github.com/rosemaryjey/musicbot.git
+
