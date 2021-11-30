@@ -187,8 +187,8 @@ Using Python only
     # If you've installed package from PyPI into the system,
     # you can also replace 'python3 -m scdlbot' with pure 'scdlbot'
 
-Deploying to `Heroku <https://heroku.com/deploy?template=https://github.com/rosemaryjey/musicbot.git>`__
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rosemaryjey/lol)
+
 
 |Deploy|
 
