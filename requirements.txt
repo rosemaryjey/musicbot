@@ -41,7 +41,7 @@ pywin32==302; platform_system == "Windows" and platform_python_implementation !=
 requests==2.26.0; (python_version >= "2.7" and python_full_version < "3.0.0") or (python_full_version >= "3.6.0")
 scdl @ git+https://github.com/flyingrub/scdl.git@master ; python_version >= "3.6"
 six==1.16.0; python_version >= "3.6" and python_full_version < "3.0.0" and python_version < "4.0" or python_full_version >= "3.3.0" and python_version >= "3.6" and python_version < "4.0"
-soundcloud-v2==1.1.6; python_version >= "3.6"
+soundcloud-v2==1.3.0; python_version >= "3.6"
 soupsieve==2.3.1; python_version >= "3.6" and python_version < "4.0" and python_full_version > "3.0.0"
 termcolor==1.1.0; python_version >= "3.6"
 tornado==6.1; python_version >= "3.5"
