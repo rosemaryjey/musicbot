@@ -2,7 +2,7 @@ amqp==5.0.6; python_version >= "3.6"
 args==0.1.0; python_version >= "3.6"
 bandcamp-downloader @ git+https://github.com/gpchelkin/bandcamp-dl.git@demjson3 ; python_version >= "3.4" and python_version < "4.0"
 beautifulsoup4==4.10.0; python_version >= "3.4" and python_version < "4.0" and python_full_version > "3.0.0"
-billiard==3.6.4.0; python_version >= "3.6"
+billiard==4.1.0; python_version >= "3.6"
 boltons==21.0.0
 cached-property==1.5.2; python_version < "3.8" and python_version >= "3.6"
 celery==5.1.2; python_version >= "3.6"
