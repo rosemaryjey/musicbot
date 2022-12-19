@@ -36,7 +36,7 @@ pypiwin32==223; platform_system == "Windows" and platform_python_implementation 
 python-dateutil==2.8.2; python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.3.0" and python_version >= "3.6"
 python-telegram-bot==12.8
 python-telegram-handler==2.2.1
-pytz==2021.3; python_version >= "3.6"
+pytz==2022.7; python_version >= "3.6"
 pywin32==302; platform_system == "Windows" and platform_python_implementation != "PyPy" and (python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.5.0")
 requests==2.26.0; (python_version >= "2.7" and python_full_version < "3.0.0") or (python_full_version >= "3.6.0")
 scdl @ git+https://github.com/flyingrub/scdl.git@master ; python_version >= "3.6"
